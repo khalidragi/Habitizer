@@ -1,7 +1,7 @@
 <!-- prettier-ignore -->
 ![alt text](https://github.com/khalidragi/Logo/blob/master/Logo.png "KR Design")
 
-## Habitizer
+# Habitizer
 
 Personal habit tracker app.
 
